@@ -36,3 +36,13 @@ arbitrum共学营个人仓库
 2. 运行结果
 
 ![alt text](image-5.png)
+
+# 作业3
+
+1. 作业3 代码位置
+
+./level3-gas-compute/src/main.rs
+
+2. 运行结果
+
+![alt text](image-6.png)
